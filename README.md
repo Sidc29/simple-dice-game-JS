@@ -8,3 +8,7 @@ Built using JavaScript, the Simple Dice Game is fast and responsive, making it a
 
 https://sidc29.github.io/simple-dice-game-JS/
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
